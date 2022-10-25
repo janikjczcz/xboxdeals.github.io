@@ -1553,7 +1553,7 @@ body {
 
 @media screen and (max-width: 767px) {
 	.layout .layout__content {
-		padding-top: calc(var(--layout-pt) * var(--layout-adaptive-vertical-indents-factor-decrease));
+	/*	padding-top: calc(var(--layout-pt) * var(--layout-adaptive-vertical-indents-factor-decrease));*/
 		padding-bottom: calc(var(--layout-pb) * var(--layout-adaptive-vertical-indents-factor-decrease))
 	}
 }
